@@ -1,4 +1,4 @@
-#  📓 Tutoring Scheduler (frontend)
+#  📓 Tutoring Scheduler (backend)
 
 My partner and I built this project as part of our software engineering bootcamp. This tutoring scheduler allows users to view tutors and to book/update/cancel tutoring sessions. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
